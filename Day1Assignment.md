@@ -44,7 +44,7 @@ Both Waterfall and Agile are popular software development methodologies, but the
 Comparing Waterfall and Agile Methodologies
 Similarities:
 * Both are project management methodologies used in software development
-* Both aim to deliver functional software products
+* Both aim to deliver well functional software products
 * Both involve phases of requirements, design, implementation, testing, and deployment
 * Both require documentation and communication among team members.
 
